@@ -1,0 +1,181 @@
+Country	PBI2008	EstimatesStartAfter
+Afghanistan 	416.098	2007
+Albania 	4089.589	2006
+Algeria 	4588.185	2008
+Angola 	5053.961	2000
+Antigua and Barbuda 	14555.982	2005
+Argentina 	8171.134	2006
+Armenia 	3684.555	2004
+Australia 	46824.088	2008
+Austria 	50039.067	2008
+Azerbaijan 	5349.391	2006
+Bahamas The 	22359.276	2008
+Bahrain 	27247.791	2008
+Bangladesh 	520.543	2007
+Barbados 	13314.156	2007
+Belarus 	6234.686	2008
+Belgium 	47289.141	2008
+Belize 	4240.531	2007
+Benin 	827.882	2008
+Bhutan 	2114.232	0
+Bolivia 	1655.585	2004
+Bosnia and Herzegovina 	4625.416	2007
+Botswana 	7554.243	2006
+Brazil 	8295.003	2005
+Brunei Darussalam 	37053.018	2007
+Bulgaria 	6560.723	2008
+Burkina Faso 	577.933	2008
+Burundi 	137.965	0
+Cambodia 	823.124	2007
+Cameroon 	1224.377	2005
+Canada 	45085.296	2008
+Cape Verde 	3464.034	2007
+Central African Republic 	458.644	2004
+Chad 	863.267	2004
+Chile 	10116.965	2008
+China 	3259.461	2008
+Colombia 	4988.870	2008
+Comoros 	816.146	2003
+Congo Democratic Republic of 	184.929	1983
+Congo Republic of 	2951.748	2004
+Costa Rica 	6543.692	2007
+Cote dIvoire 	1132.247	2007
+Croatia 	15633.517	2008
+Cyprus 	32744.682	2008
+Czech Republic 	20759.636	2008
+Denmark 	62096.806	2008
+Djibouti 	1252.166	0
+Dominica 	5081.874	2005
+Dominican Republic 	4991.821	2004
+Ecuador 	3928.083	2001
+Egypt 	2162.454	2007
+El Salvador 	3823.638	2007
+Equatorial Guinea 	14941.422	2006
+Eritrea 	295.438	2006
+Estonia 	17532.170	2008
+Ethiopia 	333.326	2006
+Fiji 	4094.410	2006
+Finland 	51588.349	2008
+France 	46037.360	2008
+Gabon 	9997.553	0
+Gambia The 	496.744	2008
+Georgia 	2923.545	2004
+Germany 	44728.509	2008
+Ghana 	739.128	0
+Greece 	32105.106	2007
+Grenada 	6587.286	2003
+Guatemala 	2850.090	2005
+Guinea 	439.411	2008
+Guinea-Bissau 	264.420	2004
+Guyana 	1509.133	2002
+Haiti 	790.247	2006
+Honduras 	1826.144	2001
+Hong Kong SAR 	30725.852	2008
+Hungary 	15522.543	2008
+Iceland 	53058.031	2008
+India 	1017.174	2008
+Indonesia 	2238.932	2007
+Iran 	4600.395	2007
+Iraq 	3007.069	2004
+Ireland 	60509.596	2008
+Israel 	28408.963	2008
+Italy 	38996.165	2008
+Jamaica 	5198.734	2006
+Japan 	38457.216	2005
+Jordan 	3625.501	2007
+Kazakhstan 	8718.886	2008
+Kenya 	838.336	2003
+Kiribati 	1372.461	2008
+Korea 	19136.167	2007
+Kuwait 	45920.254	2008
+Kyrgyz Republic 	950.796	2007
+Lao 	858.911	2005
+Latvia 	14963.522	2008
+Lebanon 	7707.675	2007
+Lesotho 	659.994	2006
+Liberia 	215.520	2008
+Libya 	14479.456	2007
+Lithuania 	14085.857	2008
+Luxembourg 	113043.981	2008
+Macedonia 	4656.594	2007
+Madagascar 	468.106	2006
+Malawi 	312.540	2004
+Malaysia 	8118.210	2008
+Maldives 	3654.412	2008
+Mali 	656.797	2008
+Malta 	20280.623	2008
+Mauritania 	1042.425	2004
+Mauritius 	6871.825	2008
+Mexico 	10199.615	2008
+Moldova 	1692.547	2008
+Mongolia 	1975.316	2007
+Morocco 	2827.278	2008
+Mozambique 	477.021	2008
+Myanmar 	445.664	2006
+Namibia 	4278.454	2007
+Nepal 	444.338	0
+Netherlands 	52499.721	2008
+New Zealand 	30030.078	2007
+Nicaragua 	1027.841	2003
+Niger 	390.982	2005
+Nigeria 	1401.235	2006
+Norway 	94386.508	2008
+Oman 	21646.173	2008
+Pakistan 	1022.286	2008
+Panama 	6784.083	2000
+Papua New Guinea 	1306.006	2000
+Paraguay 	2601.094	2006
+Peru 	4447.809	2007
+Philippines 	1845.173	2008
+Poland 	13846.395	2008
+Portugal 	23041.044	2007
+Qatar 	93204.052	2008
+Romania 	9310.386	2008
+Russia 	11806.947	2008
+Rwanda 	464.912	2008
+Samoa 	2608.011	2007
+Saudi Arabia 	18855.021	2008
+Senegal 	1066.388	2008
+Serbia 	6781.881	2007
+Seychelles 	9640.453	2007
+Sierra Leone 	331.734	2005
+Singapore 	38972.126	2007
+Slovak Republic	17646.421	2008
+Slovenia 	27148.642	2007
+Solomon Islands 	1227.870	2006
+South Africa 	5684.565	2008
+Spain 	35116.595	2007
+Sri Lanka 	1971.826	2007
+St. Kitts and Nevis 	10309.552	2003
+St. Lucia 	5806.022	2001
+St. Vincent and the Grenadines 	5615.213	2001
+Sudan 	1522.037	2006
+Suriname 	5503.912	2002
+Swaziland 	2778.184	2007
+Sweden 	52180.742	2008
+Switzerland 	68433.124	2006
+Syrian Arab Republic 	2767.718	2007
+Taiwan Province of China 	16987.903	2008
+Tajikistan 	795.108	2007
+Tanzania 	520.049	2001
+Thailand 	4116.315	2008
+Timor-Leste 	468.758	2007
+Togo 	436.242	2008
+Tonga 	2510.341	2006
+Trinidad and Tobago 	19869.594	2007
+Tunisia 	3955.168	2006
+Turkey 	10479.452	2008
+Turkmenistan 	3605.854	2007
+Uganda 	454.567	2007
+Ukraine 	3909.873	2008
+United Arab Emirates 	55028.081	2008
+United Kingdom 	43733.779	2008
+United States 	47439.926	2008
+Uruguay 	9653.911	2005
+Uzbekistan 	1026.743	2008
+Vanuatu 	2441.905	1999
+Venezuela 	11388.330	2008
+Vietnam 	1042.386	2007
+Yemen 	1171.100	2007
+Zambia 	1247.650	2003
+Zimbabwe 	268.114	2000
